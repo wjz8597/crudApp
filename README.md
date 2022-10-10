@@ -1,2 +1,2 @@
-# curdApp
+# crudApp
 crud full stack
